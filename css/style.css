@@ -1,38 +1,38 @@
-/* Created by: Angelo Pintilie
+/* Created by: PJ Lobetti
 * Created on: April 2022
 * This CSS file defines the style for index.html
-* ICS2O-Unit4-01-HTML-GuessMyNumber
+* ICS2O-Unit4-02-HTML-ColdHot
 */
 
 body {
 	background-color: 
-rgb(145, 128, 234);
+rgb(133, 213, 219);
 }
 
 h1 {
 	background-color: 
-rgb(146, 209, 149);
+rgb(242, 74, 74);
 	color: 
-hsl(10, 0%, 30%);
+hsl(200, 75%, 30%);
 	padding: 40px;
 	text-align: center;
 }
 
 p {
 	background-color: 
-#f5dc6;
+#e6522dcc6;
 }
 
 div {
   	
   font-weight: bold;
   color: 
-#050505;
+#e0350b;
   margin: 5px;
 }
 
 #display-results{
   background-color: 
-#49c5a;
+#13a7d855a;
 	font-size: 20px;
 }
